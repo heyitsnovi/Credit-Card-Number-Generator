@@ -1,0 +1,79 @@
+@media only screen and (min-width: 375px) {
+
+	.btn-generate{
+
+		margin-top: 10px;
+	}
+
+	.jumbotron-main{
+
+		margin-top: 10px;
+	}
+	.result{
+
+		font-size: 30px;
+		margin-top: 10px;
+		color: green;
+		font-weight: bold;
+
+	}
+
+}
+
+@media only screen and (min-width: 320px) {
+
+	.btn-generate{
+
+		margin-top: 10px;
+	}
+
+	.jumbotron-main{
+
+		margin-top: 10px;
+	}
+	.result{
+
+		font-size: 30px;
+		margin-top: 10px;
+		color: green;
+		font-weight: bold;
+		
+	}
+
+}
+
+@media only screen and (min-width: 360px) {
+
+	.btn-generate{
+
+		margin-top: 10px;
+	}
+
+	.jumbotron-main{
+
+		margin-top: 10px;
+	}
+	.result{
+
+		font-size: 30px;
+		margin-top: 10px;
+		color: green;
+		font-weight: bold;
+		
+	}
+
+}
+
+
+
+/*Large PC*/
+@media only screen and (min-width: 768px) {
+
+	.result{
+
+		font-weight: bold;
+		font-size: 60px;
+		color:green;
+	}
+
+}
